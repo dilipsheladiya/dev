@@ -1,3 +1,6 @@
 welcom git
 fg
  addd new
+ 
+ pizaa
+ add
