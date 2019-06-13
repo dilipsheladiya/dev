@@ -1,2 +1,3 @@
 welcom git
 fg
+ addd new
